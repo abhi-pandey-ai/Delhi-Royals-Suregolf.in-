@@ -79,7 +79,7 @@ $activePage = 'Media &amp; Blog';
                     
                     <div class="blog-container" id="blogContainer">
 
-                        <!-- ===================== PRESS / EXTERNAL MEDIA SECTION ===================== -->
+                       <!-- external media sec-- -->
                         <div class="press-section">
                             <h3 class="press-heading">IN THE PRESS</h3>
                             <p class="press-subtext">Delhi Royals making headlines across the world of golf.</p>
