@@ -43,6 +43,7 @@ $events = [
             ['src' => 'tournament/hydrabad7.jpeg',  'caption' => 'Closing Ceremony'],
         ],
     ],
+    // add next math images 
     // 3 => [
     //     'label'    => 'Event 03',
     //     'title'    => 'Mid Season Classic Invitational',
